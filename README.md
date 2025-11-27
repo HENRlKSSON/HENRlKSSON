@@ -7,11 +7,11 @@
 
 <div align="left">
 <img align="left" img width="526" height="378" alt="Untitled430_20251122180642" src="https://github.com/user-attachments/assets/8298e311-0982-4b5a-a6c6-62501e936e89" />
-</div><p align="center"> $\color{#insert hex code}{\textsf{HENRIKSSON}}$<br>
+</div><p align="center"> $\color{#insert hex code}{\textsf{GONTIER}}$<br>
   <hr>
 </p>
 <p align="center">
-<kbd> $\color{#FF0000}{\textsf{simon ou azure}}$<br>
+<kbd> $\color{#FF0000}{\textsf{adam ou azure}}$<br>
   <br>
 $\color{#FFFFFF}{\textsf{16 yrs - 8/5/09}}$<br>
   <br>
