@@ -78,8 +78,6 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
   yoko</a>
   <a href="https://github.com/Acesteroid">
   ace</a>
-  <a href="https://github.com/jellykatss">
-  kat</a>
   <a href="https://github.com/YourrRemedy">
   vani</a>
   <a href="https://github.com/PanophobiaVxmp">
