@@ -89,7 +89,7 @@ $\color{#000000}{\textsf{he/it or any nh}}$<br>
   <a href="https://github.com/juiicyfruitcake">
   leon</a>
   <a href="https://github.com/nyanyamii">
-  eclipse</a>
+  roseygardensys</a>
   <a href="https://github.com/Cannibalistic-Ways-Of-Life">
   vemo</a>
   <a href="https://github.com/Michael-Afton1983">
